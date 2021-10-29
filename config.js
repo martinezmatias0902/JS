@@ -1,3 +1,2 @@
-function newRepo(name) {
-    return name
-}
+newRepo = (name) => console.log(name)
+newRepo("lorem")
